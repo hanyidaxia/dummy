@@ -1,0 +1,26 @@
+baseurl = "https://soumyakantpadhee.github.io/"
+canonifyurls = true
+relativeURLs = true
+title = "Soumyakant Padhee"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+
+[author]
+name = "Soumyakant Padhee"
+homepage = "https://soumyakantpadhee.github.io/"
+
+
+[params]
+shortbio = "Ph.D. Candidate, Industrial Engineering (expected July 2023)"
+officeAddress = "21 Worthington St., Unit-2, Boston, Massachusetts, 02120, USA"
+officeMapLink = "https://goo.gl/maps/dVHwMYBfnzkBXUar8"
+#profileurl = "https://media-exp1.licdn.com/dms/image/C4E03AQE836lixhfZCg/profile-displayphoto-shrink_800_800/0/1660597061776?e=2147483647&v=beta&t=8fQ4P7rRYLNLr-8q57_770BQlNzXrPI829Lq0uKJJ0o"
+
+[markup]
+  [markup.highlight]
+    style = "solarized-light"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
